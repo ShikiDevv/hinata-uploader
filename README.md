@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/VFrQ7kz/b23ac2f58962.png" alt="Hinata Uploader Hero" width="450">
+  <img src="https://i.ibb.co/VFrQ7kz/b23ac2f58962.png" alt="Hinata Uploader Hero" style="max-width: 100%; height: auto;">
 </p>
 
 <h1 align="center">🌸 Ｈｉｎａｔａ Ｕｐｌｏａｄｅｒ 🌸</h1>
